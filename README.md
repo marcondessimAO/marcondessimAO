@@ -35,6 +35,7 @@ Desenvolvedor Full-Stack em formação, focado em código limpo e eficiente.
   <br />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -57,8 +58,8 @@ Sistemas de gestão sob medida para empresas.
 |---|---|---|
 | [**Mapa do Pet**](https://github.com/marcondessimAO/mapa-do-pet) | App para cadastro, localização e acompanhamento de animais em situação de rua | Flutter, Dart |
 | [**Bairamburguer**](https://github.com/marcondessimAO/bairamburguer) | Sistema de delivery full-stack para operação comercial real, com foco em escalabilidade e gestão ágil de pedidos | Spring Boot, Next.js, TypeScript |
-| [**Sistema de Agendamento**](https://github.com/marcondessimAO/sistema-agendamento) | Aplicação web de agendamento | TypeScript |
-| [**Prontuário NoSQL**](https://github.com/marcondessimAO/prontuario-nosql) | Prontuário eletrônico com banco NoSQL | Python |
+| [**Sistema de Agendamento**](https://github.com/marcondessimAO/sistema-agendamento) | MVP de gestão hospitalar e agendamento médico, com autenticação JWT | Spring Boot, Next.js, MySQL |
+| [**Prontuário NoSQL**](https://github.com/marcondessimAO/prontuario-nosql) | Prontuário eletrônico hospitalar com persistência poliglota | Python, MongoDB, Redis, Neo4j |
 
 ## Atividade
 
